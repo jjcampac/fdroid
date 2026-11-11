@@ -1,0 +1,10 @@
+AuthorName: 'Simple Radio'
+Categories:
+- fdroid
+CurrentVersionCode: 2147483647
+Name: Simple Radio
+License: Apache-2.0
+SourceCode: https://github.com/jjcampac/eter
+IssueTracker: https://github.com/jjcampac/eter/issues
+Summary: 'Aplicación Android de radio por internet, sin publicidad, sin cuentas de usuario y sin servidor propio. El móvil se conecta directamente a los streams que publican las emisoras.'
+WebSite: ''
