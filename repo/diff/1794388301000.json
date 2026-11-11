@@ -1,0 +1,1 @@
+{"repo": {"name": {"en-US": "jjcampac fdroid repo"}, "address": "https://jjcampac.github.io/fdroid/repo", "timestamp": 1794390910000}, "packages": {"com.jjcampac.walink": {"metadata": {"issueTracker": "https://github.com/jjcampac/walink/issues", "license": "Apache-2.0", "sourceCode": "https://github.com/jjcampac/walink"}}}}

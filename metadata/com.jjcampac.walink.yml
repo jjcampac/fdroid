@@ -2,8 +2,10 @@ AuthorName: 'jjcampac'
 Categories:
 - fdroid
 CurrentVersionCode: 2147483647
-IssueTracker: ''
 Name: Walink
-SourceCode: ''
+License: Apache-2.0
+SourceCode: https://github.com/jjcampac/walink
+IssueTracker: https://github.com/jjcampac/walink/issues
 Summary: 'Lectura de mensajes de WhatsApp por dispositivos bluetooth conectados (coche, auriculares...)'
 WebSite: ''
+
